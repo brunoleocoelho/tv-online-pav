@@ -1,0 +1,30 @@
+usando REGEX para assistir um video do Youtube
+https://stackoverflow.com/questions/3652046/c-sharp-regex-to-get-video-id-from-youtube-and-vimeo-by-url
+Tutorial: https://www.youtube.com/watch?v=sBAAgrQBCxc
+
+link usado para carregar
+http://www.youtube.com/watch?v=pvAsqPbz9Ro
+http://www.youtube.com/embeb/sBAAgrQBCxc
+
+regex code 
+Youtube: youtu(?:\.be|be\.com)/(?:.*v(?:/|=)|(?:.*/)?)([a-zA-Z0-9-_]+)
+Vimeo: vimeo\.com/(?:.*#|.*/videos/)?([0-9]+)
+
+
+C# code
+
+string _videoUrl;
+
+public string videoId
+{
+	get
+	{
+		var ytMacth = new Regex(@"youtu(?:\.be|be\.com)/(?:.*v(?:/|=)|(?:.*/)?)([a-zA-Z0-9-_]+)").Match(_videoUrl);
+		return ytMatch.Success ? ytMatch.Groups[1].Value : string.Empty;
+	}
+}
+
+private void btn_Click(ocjbect sender, EventArgs e){
+	_videoUrl = txtUrl.text;
+	webBrowser.Navigate($"http://youtube.com/v/{videoId}?version=3");
+}

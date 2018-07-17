@@ -1,0 +1,700 @@
+"LISTA EM https://pastebin.com/Y0sDeysd"
+
+#EXTM3U
+#EXTINF:0 tvg-name="RrokumTV.al" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="Rrokum TV" aspect-ratio="16:9" tvg-logo="https://www.ipko.com/epg/logo/rrokum.png" group-title="TEST",Rrokum
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+ 
+#EXTINF:0 tvg-name="opoja.tv" tvg-language="Albanian/Kosovo" tvg-country="AL" tvg-id="opoja.tv" tvg-logo="https://3.bp.blogspot.com/-bHJ76EJ6fnA/WLQs5b7lWFI/AAAAAAAAAJw/r_DSvVZ5AVMTqYzhNJDyIXku3OET3pqFwCLcB/s1600/opoja.png" group-title="TEST",OPOJA
+http://hd.opoja.tv:8005/tvopoja/tracks-v1a1/index.m3u8
+ 
+#EXTINF:0 tvg-name="TVJUG.AL" tvg-language="Albanian/Kosovo" tvg-country="AL" tvg-id="TVJUG.AL" tvg-logo="https://1.bp.blogspot.com/-O_krUSW6aTs/WLA0d-FwWlI/AAAAAAAAAIM/jccFLnX2KLIkSEUSay2jFOwsAnDRKxcbACLcB/s1600/tv_jug.png" group-title="TEST",JUGTV
+http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
+ 
+#EXTINF:0 tvg-name="ALBMOVIE.AL" tvg-language="Albanian/Kosovo" tvg-country="UK" tvg-id="ALBMOVIE.AL" tvg-logo="https://4.bp.blogspot.com/-04DVcN_2C2c/WLA0deQIzzI/AAAAAAAAAIA/orVZXg-HgtgnAcTt3FJmeL9WJbjnK3pIgCLcB/s1600/albumoviehd.png" group-title="TEST",ALB MOVIE
+http://188.138.17.8:1935/albuk/albukplus.stream/playlist.m3u8
+ 
+#EXTINF:0 tvg-name="ALBUKTV.AL" tvg-language="Albanian/Kosovo" tvg-country="UK" tvg-id="ALBUKTV.AL" tvg-logo="https://1.bp.blogspot.com/-VTwb_dsHSvY/WLA0dWqZ1RI/AAAAAAAAAIE/5LmquYluzrgCj-cUZCbNOrZihnsA_3YcACLcB/s1600/albukhd.png" group-title="TEST",ALB UK
+http://188.138.17.8:1935/albuk/albuk.stream/playlist.m3u8
+ 
+#EXTINF:0 tvg-name="ALBMUSIC.AL" tvg-language="Albanian/Kosovo" tvg-country="UK" tvg-id="ALBMUSIC.AL" tvg-logo="https://2.bp.blogspot.com/-NHeuJ5j-oxk/WLA0dWUVOvI/AAAAAAAAAH8/JRkEr0LeywYjYkaZ9yu--5m7T8x_TCphQCLcB/s1600/albmusichd.png" group-title="TEST",ALB MUSIC
+http://albukhd.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+ 
+#EXTINF:0 tvg-name="OraNews.al" tvg-language="Albanian/Kosovo" tvg-country="AL" tvg-id="OraNews.al" tvg-logo="http://ipko.com/epg/logo/ora-news-izle.png" group-title="TEST",Ora News
+http://109.236.81.91/hls/oranews/index.m3u8
+ 
+#EXTINF:0 tvg-name="KlanKosova.al" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="KlanKosova.al" tvg-logo="https://www.ipko.com/epg/logo/KLAN_KOSOVA.png" group-title="TEST",KLAN KS
+http://84.22.52.2:443/klanks/mono.m3u8
+ 
+#EXTINF:0 tvg-name="Tetova.mk" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="Tetova.mk" tvg-logo="http://i.imgur.com/X53xldB.png" group-title="TEST",TETOVA
+rtmp://ip.tvtetova.net:5119/live/tvtetova
+ 
+#EXTINF:0 tvg-name="DUKAGJINI" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="DUKAGJINI" tvg-logo="https://www.ipko.com/epg/logo/duka_logo.png" group-title="TEST",DUKAGJINI
+http://stream2.itprishtina.com/dukagjini/index.m3u8
+ 
+#EXTINF:0 tvg-name="KUTIATV.AL" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="KUTIATV.AL" tvg-logo="https://3.bp.blogspot.com/-LVI1lMQ7JZM/WLA0dxV_cCI/AAAAAAAAAII/0LHZpaLFLXMLFjf_evcPCst4xLUDBaTFwCLcB/s1600/tv_kutia.png" group-title="TEST",KUTIA
+http://stream2.itprishtina.com/kutia.tv/tracks-1,2/index.m3u8
+ 
+#EXTINF:0 tvg-name="tribuna.AL" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="tribuna.AL" tvg-logo="https://lh3.googleusercontent.com/-6IOb5b0L1hQ/VyqskvPAh7I/AAAAAAAAGyg/pGe36O6T6dYh9K9ZxDLZsg3QfgGIgPjLACCo/s204/Tribuna%2BChannel%2Blive%2Bstreaming.png" group-title="TEST",TRIBUNA
+http://84.22.52.2:443/tribuna/mono.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/INTV_logo.png" group-title="TEST",INTV
+http://80.91.115.211:1935/live/livestream/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://tvdielli.com/wp-content/uploads/2016/02/logodielli-2-512x330.png" group-title="TEST",Dielli
+http://84.22.52.2:443/tvdielli/mono.m3u8
+ 
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-VkFVc0SOWhE/AAAAAAAAAAI/AAAAAAAAAAA/gQMiWQQhBZ8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="TEST",DRITA
+http://77.242.21.140:8001/drita/mono.m3u8
+ 
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-YOxBFGfek0s/AAAAAAAAAAI/AAAAAAAAAAA/ci6waVDG7GA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="TEST",ABC NEWS
+http://xabcalbaniax.api.channel.livestream.com/3.0/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://ulango.tv/uploads/channels/3780237/logo_a1%20islam.png" group-title="TEST",A1
+http://109.236.91.150:8080/a1shiptarealb11/index.m3u8
+ 
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-p4lId3KFWMA/AAAAAAAAAAI/AAAAAAAAAB0/1YvnHHee5Mg/s120-c/photo.jpg" aspect-ratio="16:9" group-title="TEST",SYRI BLUE
+http://syriblue.ddns.net:8888/livestream/syriblue/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-dsxMQBVFbog/WLQs7yHwLWI/AAAAAAAAAJ0/y1aI9OstL4whiUb2T_vweeiJwhjUbN4jgCLcB/s1600/tvshqipgeneva.png" aspect-ratio="16:9" group-title="TEST",GENEVA
+rtmp://live.shqiptvgjeneva.ml/live/shqiptvgeneva
+ 
+#EXTINF:0 tvg-name="Koha.mk" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="Koha.mk" aspect-ratio="16:9" tvg-logo="http://www.radiozhelina.com/images/tvkohalogo-21.png" group-title="TEST 1",KOHA *
+rtmp://live.tvkoha.tv/live/koha/livestream
+ 
+#EXTINF:0 tvg-logo="http://www.rmm.be/images/logo-focus-wtv.png" aspect-ratio="16:9" group-title="TEST 1",FOKUS *
+rtmp://81.7.13.162:1935/fokustv/fokustvkanal08usa
+ 
+#EXTINF:0 tvg-name="SuperSonicTV.al" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="SuperSonicTV.al" aspect-ratio="16:9" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/03/supersonic_tv_al.png" group-title="TEST",SONIC - (4:3)
+http://str103.setplex.net:1935/228//stv_online/playlist.m3u8
+ 
+#EXTINF:0 tvg-name="SuperSportNews.al" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="SuperSportNews.al" aspect-ratio="16:9" tvg-logo="https://1.bp.blogspot.com/-l-YUlYs3Y14/WLLXW2yKuKI/AAAAAAAAAIo/CVy8iMVX9uwfzCRDaMKfAAEjmlb5Gx0MwCLcB/s1600/ss1.png" group-title="TEST",SS1 (4:3)
+http://81.7.13.162/hls/ss1/index.m3u8
+ 
+#EXTINF:0 tvg-name="SuperSportNews.al" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="SuperSportNews.al" aspect-ratio="16:9" tvg-logo="https://2.bp.blogspot.com/-qNTrf8Mr_2o/WLLXW-ViInI/AAAAAAAAAIw/KqtYZmHvjDQxMMzch0-Kfj3jL6BSVlz7QCLcB/s1600/ss2.png" group-title="TEST",SS2 (4:3)
+http://81.7.13.162/hls/ss2/index.m3u8
+ 
+#EXTINF:0 tvg-name="SuperSportNews.al" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="SuperSportNews.al" aspect-ratio="16:9"  tvg-logo="https://1.bp.blogspot.com/-EHST0MB3QzQ/WLLXWwXNFpI/AAAAAAAAAIs/ry-a2UtvCMQZL1C7-YZWJ5ciZNKBZZBRQCLcB/s1600/ss3.png" group-title="TEST",SS3 (4:3)
+http://81.7.13.162/hls/ss3/index.m3u8
+ 
+#EXTINF:0 tvg-name="SuperSportNews.al" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="SuperSportNews.al" aspect-ratio="16:9"  tvg-logo="https://1.bp.blogspot.com/-M6oYP1brBj8/WLLXXFiwDDI/AAAAAAAAAI0/IBfV2LLlsAAJYGP14Jh3UvKfYRMMjIqjwCLcB/s1600/ss4.png" group-title="TEST",SS4 (4:3)
+http://81.7.13.162/hls/ss4/index.m3u8
+ 
+#EXTINF:0 tvg-name="RTK.al" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="RTK.al" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/RTK_logo.png" group-title="TEST",RTK1 (4:3)
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://rozafa.tv/wp-content/uploads/2014/09/LOGOTVR_blue1.png" aspect-ratio="16:9" group-title="TEST",ROZAFA (4:3)
+http://xrozafashkoder1x.api.channel.livestream.com/3.0/playlist.m3u8
+ 
+#EXTINF:0 tvg-name="News24.al" tvg-language="Albanian/Kosovo" tvg-country="AL" tvg-id="News24.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/News24_Albania.svg/1280px-News24_Albania.svg.png" group-title="TEST",NEWS24 (4:3)
+http://81.7.11.117/hls/news24/index.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.tvfrekans.com/wp-content/uploads/2012/12/tv-2-logo-resmi.jpg" group-title="TEST",TV2 (4:3)
+http://tv2.shqiptv.us:1935/live/tv2.mk/index.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.tv-opinion.com/WebFajllat/English/Televizioni%20OPINION.jpg" group-title="TEST",Opinion (4:3)
+http://iphone-streaming.ustream.tv/uhls/19403818/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.sat-address.com/f/pics/logotipi/TV1-Channel-Albania_o.png" group-title="TEST",TV1 (4:3)
+http://xtv1channelshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://shkabaj.net/tv/img/tv_elbasani.png" group-title="TEST",Elbasani (4:3)
+http://xredinezirix.api.channel.livestream.com/3.0/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-rYFkZrwuPlc/AAAAAAAAAAI/AAAAAAAAAAA/UTSOZtD33UM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="TEST",CH7 * (4:3)
+rtmp://ip.shqiptv.us:1935/live//channel7
+ 
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/scan_tv_al.jpg" group-title="TEST",SCAN (4:3)
+http://iphone-streaming.ustream.tv/uhls/18049816/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.topestrada.tv/img/logo.png" group-title="TEST 1",TOP * -
+rtmp://89.163.208.115/live/topestrada/livestream
+ 
+#EXTINF:0 tvg-logo="http://www.tv14.net/wp-content/uploads/2010/09/Besa-TV.jpg" aspect-ratio="16:9" group-title="TEST",BESA (4:3)
+http://ip.shqiptv.us:1935/live/besartv/chunklist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-0FvEr85GiI0/UPum4cywZJI/AAAAAAAABpg/yUSYOyfeRUU/s320/syri%2BVizion.png" group-title="TEST 1",Syri Vizion * (4:3)
+rtmp://37.26.69.49/live/syri
+ 
+#EXTINF:0 tvg-name="VizionPlus.al" tvg-language="Albanian/Kosovo" tvg-country="AL" tvg-id="VizionPlus.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/2000px-Vizion_Plus.svg.png" group-title="TEST",Vizion -
+http://slive.vizionplus.tv:1935/live/livestream2/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://logos.textgiraffe.com/logos/logo-name/Amol-designstyle-kiddo-m.png" group-title="TEST",AMOL -
+http://46.19.228.174:8001/amol/index.m3u8
+ 
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-Zyfb2mJ60AU/VZEvkl40jfI/AAAAAAAABNY/N7hRgY3IRx8/s1600/zzzz3.jpg" group-title="TEST", Zjarr -
+http://81.7.13.162/hls/zjarrtv/index.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/CNN_T%C3%BCrk_logosu.png" group-title="TEST",TR: CNN
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+ 
+#EXTINF:0 tvg-name="TRTHABER.tr" tvg-language="TURKISH/TURKEY" tvg-country="TR" tvg-id="TRTHABER.tr" tvg-logo="http://www.hdcanlitvizler.com/wp-content/uploads/2016/10/trt-haber-logo-png.png" group-title="TEST",TR: TRT HABER
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_900_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:0 tvg-logo="http://www.trtokul.com.tr/images/logo-yayin.png" group-title="TEST",TR: TRT OKUL
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:0 tvg-name="TRTAVAZ.tr" tvg-language="TURKISH/TURKEY" tvg-country="TR" tvg-id="TRTAVAZ.tr" tvg-logo="http://tvalhijrah.com/thetruth/images/sponsorslogo/15TRT%20AVAZ.png" group-title="TEST",TR: TRT AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_700_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:0 tvg-name="TRT1.tr" tvg-language="TURKISH/TURKEY" tvg-country="TR" tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Turkish_Radio_and_Television_logo.svg/1200px-Turkish_Radio_and_Television_logo.svg.png" group-title="TEST",TR: TRT 1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_900_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:0 tvg-name="TRTBelgesel.tr" tvg-language="TURKISH/TURKEY" tvg-country="TR" tvg-id="TRTBelgesel.tr" tvg-logo="http://tamtvizle.com/wp-content/uploads/2015/01/tgrt-belgesel-tv-logo.png" group-title="TEST",TR: TRT BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_900_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:0 tvg-name="TRTMuzik.tr" tvg-language="TURKISH/TURKEY" tvg-country="TR" tvg-id="TRTMuzik.tr" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/1340361572-trt-muzik-yeni-logo.jpg" group-title="TEST",TR: TRT Müzik
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_700_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:0 tvg-name="TRTCocuk.tr" tvg-id="TRTCocuk.tr" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c2/TRT_%C3%87ocuk.png" group-title="TEST",TR: TRT Cocuk
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+ 
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/bc/Dream_T%C3%BCrk_logosu.png" group-title="TEST",TR: DREAM
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+ 
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/522px-Kanal_D_logo.svg.png"  group-title="TEST",TR: KANAL D
+http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+ 
+#EXTINF:0 tvg-name="euro" tvg-id="euro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Euronews_grey_logo.svg/440px-Euronews_grey_logo.svg.png" group-title="TEST",DE: Euronews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+ 
+#EXTINF:0 tvg-name="DW.DE" tvg-language="GERMAN/GERMANY" tvg-country="de" tvg-id="DW.DE" tvg-logo="http://4.bp.blogspot.com/-pX5J0zlL8m4/TyglH746DhI/AAAAAAAAEAI/OmcnPPzPsBY/s1600/Deutsche+Welle+symbol+2012.png" group-title="TEST",DE: Deutsche Welle
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:0 tvg-name="ServusHD.de" tvg-language="GERMAN/AUSTRIA" tvg-country="AT" tvg-id="ServusHD.de" tvg-logo="https://live-pse-download.drei.com/tv/images/logos/servustv_v2.png" group-title="TEST",DE: SERVUS
+http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
+ 
+#EXTINF:0 tvg-name="3sat.de" tvg-language="GERMAN/GERMANY" tvg-country="de" tvg-id="3sat.de" tvg-logo="http://xn--allestrungen-9ib.de/i/logo/3sat.png" group-title="TEST",DE: 3SAT
+http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
+ 
+#EXTINF:0 tvg-name="ARD.de" tvg-language="GERMAN/GERMANY" tvg-country="de" tvg-id="ARD.de" tvg-logo="http://afd-portal.de/wp-content/uploads/2016/12/ard-1267087_960_720.png" group-title="TEST",DE: ARD
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:0 tvg-name="N-TV.DE" tvg-language="GERMAN/GERMANY" tvg-country="de" tvg-id="N-TV.DE" tvg-logo="http://www.radiowoche.de/wp-content/uploads/2015/03/logo_ntv.png" group-title="TEST",DE: N-TV
+http://p.live.akamai.n-tv.de/hls-live/ntvlive/ntvlive_1500.m3u8
+ 
+#EXTINF:0 tvg-name="SuperRTL.de" tvg-language="GERMAN/GERMANY" tvg-country="de" tvg-id="SuperRTL.de" tvg-logo="http://phazer.info/img/kanali-logo/super-rtl-logo.png" group-title="TEST",DE: Super RTL
+http://80.25.87.6:9970/stream/channelid/555777256
+ 
+#EXTINF:0 tvg-name="HR.de" tvg-language="GERMAN/GERMANY" tvg-country="de" tvg-id="HR.de" tvg-logo="http://www.telekom.de/is-bin/intershop.static/WFS/EKI-PK-Site/EKI-PK/de_DE/themen/entertain-tv/page/images/channelWall/logos/Kx6WDv.png" group-title="TEST",DE: HR
+http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3128_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:0 tvg-name="Vox.de" tvg-language="GERMAN/GERMANY" tvg-country="de" tvg-id="Vox.de" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/VOX_(TV_channel).png" group-title="TEST",DE: VOX
+http://80.25.87.6:9970/stream/channelid/1584947218
+ 
+#EXTINF:0 tvg-name="WeltDerWunderTV.de" tvg-language="GERMAN/GERMANY" tvg-country="de" tvg-id="WeltDerWunderTV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_Welt_der_Wunder_neu.svg/2000px-Logo_Welt_der_Wunder_neu.svg.png" group-title="TEST",DE: Welt Der Wunder
+http://live.vidoo.de/live/weltderwunder/playlist.m3u8
+ 
+#EXTINF: tvg-logo="https://i1.sndcdn.com/artworks-000122130329-brysnm-t500x500.jpg" group-title="TEST",DE: Kronehit
+http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8?version=3#no_vod
+ 
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/WDR_Fernsehen_HD_2013.png" group-title="TEST",DE: WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8
+ 
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/1280px-NDR_Dachmarke.svg.png" group-title="TEST",DE: NDR
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-p.m3u8
+ 
+#EXTINF: tvg-logo="http://www.msa-online.de/cms/upload/Sender/TV/gfx_tv_MDF1.gif" group-title="TEST",DE: MDF.1
+http://62.113.210.250/medienasa-live/mdf1_high/HasBahCa.m3u8
+ 
+#EXTINF: tvg-logo="https://www.firstonetv.eu/images/logos/de/TVA.png" group-title="TEST",DE: TVA
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w670613508.m3u8
+ 
+#EXTINF: tvg-logo="https://pbs.twimg.com/profile_images/527362055704018946/MOAH_ozE.png" group-title="TEST",DE: Tirol
+http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
+ 
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TV_M%C3%BCnchen_Logo.svg/648px-TV_M%C3%BCnchen_Logo.svg.png" group-title="TEST",DE: Muenchen
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/playlist.m3u
+ 
+#EXTINF: tvg-logo="https://i.vimeocdn.com/portfolio_header/163524" group-title="TEST",DE: Hamburg
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+ 
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/TV_touring_Logo.svg/2000px-TV_touring_Logo.svg.png" group-title="TEST",DE: Wurzburg
+http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+ 
+#EXTINF: tvg-logo="http://www.muszynski.de/sender/tv/tv_oberfranken.png" group-title="TEST",DE: Oberfranken
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+ 
+#EXTINF:0 tvg-name="Baden TV" tvg-id="Baden TV" tvg-logo="http://golden-paws.de/wp-content/uploads/2014/04/baden_tv1-704x340.png" group-title="TEST",DE: Baden
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+ 
+#EXTINF: tvg-logo="http://saalebulls.com/wp-content/uploads/2012/11/Tvhalle_logo_2013.jpg" group-title="TEST",DE: HALLE
+rtmp://62.113.210.250/medienasa-live/tvhalle_high
+ 
+#EXTINF:0 tvg-name="euro" tvg-id="euro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Euronews_grey_logo.svg/440px-Euronews_grey_logo.svg.png" group-title="TEST",EN: Euronews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
+ 
+#EXTINF:0 tvg-name="Movies4Men.uk" tvg-language="english" tvg-country="uk" tvg-id="Movies4Men.uk" tvg-logo="http://www.tvwise.co.uk/wp-content/uploads/2014/04/Movies4Men-300x168.jpg" group-title="TEST",EN: Movies 4 Men
+http://80.25.87.6:9910/stream/channelid/575576427
+ 
+#EXTINF:0 tvg-name="TrueMovies.uk" tvg-language="english" tvg-country="uk" tvg-id="TrueMovies.uk" tvg-logo="https://www.firstonetv.eu/images/logos/uk/TRUEMOVIES1.png" group-title="TEST",EN: True Movies
+http://80.25.87.6:9910/stream/channelid/1591020291
+ 
+#EXTINF:0 tvg-name="HorrorMovies.uk" tvg-language="english" tvg-country="uk" tvg-id="HorrorMovies.uk" tvg-logo="http://universalchannel.de.pint-stg.digitalnbcu.com/sites/universalchannel.de/files/uc_holding_2048x1152.png" group-title="TEST",EN: Horror Movies
+http://80.25.87.6:9910/stream/channelid/131036402
+ 
+#EXTINF:0 tvg-name="NRJHits.fr" tvg-id="NRJHits.fr" tvg-logo="http://static.radio.de/images/broadcasts/10/9f/12372/3/c175.png" group-title="TEST",EN: NRJ TV
+http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8
+ 
+#EXTINF:0 tvg-name="NRJHits.fr" tvg-id="NRJHits.fr" tvg-logo="http://static.radio.de/images/broadcasts/10/9f/12372/3/c175.png" group-title="TEST",EN: NRJ HITS
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+ 
+#EXTINF:0 tvg-logo="https://i.vimeocdn.com/portrait/6313861_300x300" tvg-name="BLOOMBERG" tvg-id="BLOOMBERG" group-title="TEST",EN: BLOOMBERG
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.firstonetv.eu/images/logos/ch/PILATUS_BEATZ.png" tvg-name="Beatz HD" tvg-id="Beatz HD" group-title="TEST",EN: Beatz HD
+http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.hdtvizle.com/uploads/posts/2015-11/1447878025_trtworld.png" group-title="TEST",EN: TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+ 
+#EXTINF:0 tvg-logo="http://wmub.tv/www/tv-wmub/images/france24-logo-english.jpg" group-title="TEST",EN: France 24
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/france24-mobile.3gp.m3u8
+ 
+#EXTINF:0 tvg-logo="http://fernsehen-live-stream.com/uploads/posts/2016-03/1458403062_city_tv.jpg" group-title="TEST",EN: CITY
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/chunklist_w377062489.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/5/5b/Hittv_logo_2014.jpg" group-title="TEST", EN: MyHit
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+ 
+#EXTINF:0 tvg-logo="http://cdn-radiotime-logos.tunein.com/s221196q.png" group-title="TEST",EN: HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+ 
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-UmjzXQNMsDo/Uepdunjb21I/AAAAAAAAAcI/wmSJmKCg1l0/s1600/Capital+TV+Logo.png" group-title="TEST",EN: Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:0 tvg-logo="http://www.dw.com/cssi/dwlogo-print.gif" group-title="TEST",EN: DW
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/596404466200489984/cZjPh8eP.png" group-title="TEST",EN: Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+ 
+#EXTINF:0 tvg-logo="http://scholarships.istitutomarangoni.com/upload/dream/573a9db65187d8.174338942FRTW%20logo.png" group-title="TEST",EN: World Fashion
+http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34bf0820ea622974e83ae509b36cff888/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="https://pp.vk.me/c624229/v624229174/34fb2/1y2n3wWfnOk.jpg" group-title="TEST",ID Fashion
+http://95.67.8.22/hls/idfashion/index.m3u8
+ 
+#EXTINF:0 tvg-logo="http://dnepr-viptv.at.ua/_tbkp/626058.png" group-title="TEST",EN: H3D Media
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.internetretailer.com/static/uploads/hsn.jpg" group-title="TEST",EN: HSN
+http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.eiviluxury.com/wp-content/uploads/2015/10/logo-global-radio-tv.jpg" group-title="TEST",EN: Ibiza Global
+http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/1/1d/M6_Music_2012.png" group-title="TEST",EN: M6 Hits
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.firstonetv.eu/images/logos/nl/KLIPKAR_TV.png" group-title="TEST",NL: Klipkar TV
+http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="https://soombo.com/assets/images/200_1458044055.png" group-title="TEST",NL: EDE TV
+rtmp://live.streamone.nl/livestream/yEr2XzzAi311
+ 
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-UBuN6VtJDIk/AAAAAAAAAAI/AAAAAAAAAAA/JOlNeOi7lKo/c-k-no/photo.jpg" group-title="TEST",NL: Fryslan
+http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream04.smil/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.dordrecht.net/img/custom/logos/rtv_dordrecht-250-resized.png" group-title="TEST",NL:Dordrecht
+rtmp://live.streamone.nl/livestream/r2Dg7AiHkp
+ 
+#EXTINF:0 tvg-logo="https://ulango.tv/uploads/channels/521116/logo_rtv%20drenthe.png" group-title="TEST",NL: Drenthe
+rtmp://stream.rtvdrenthe.nl/tv/tvstream1
+ 
+#EXTINF:0 tvg-logo="http://www.jordyswillens.com/images/tvl_2.png" group-title="TEST",BE: TV Limburg
+http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/index_1_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fi/thumb/5/5a/TV7.svg/531px-TV7.svg.png" group-title="TEST",FI: TV7
+rtmp://vod.tv7.fi/tv7-fi/mp4:tv7-fi.stream_360p?PAZ_Chega_de_Guerras
+ 
+#EXTINF:0 tvg-logo="http://www.freeetv.com/images/02_logo/tv7_plus_finland.jpg" group-title="TEST",FI: TV7+
+rtmp://vod.tv7.fi/tv7plus-web/_definst_/mp4:tv7plus.stream_360p
+ 
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/TV10_logo_2010_better.JPG/150px-TV10_logo_2010_better.JPG" group-title="TEST",SE: TV 10
+rtmp://cdn-kanal10.crossnet.net/kanal10//mpegts.stream
+ 
+#EXTINF:0 tvg-logo="http://www.nlradiostations.nl/wp-content/uploads/OmroepZeeland.png" group-title="TEST",NZ: TV
+rtmp://livestream.zeelandnet.nl/live/omroepzeeland_tv_1500k.sdp
+ 
+#EXTINF:0 tvg-name="euro" tvg-id="euro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Euronews_grey_logo.svg/440px-Euronews_grey_logo.svg.png" group-title="TEST",FR: Euronews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8
+ 
+#EXTINF:0 tvg-name="ARTE.fr" tvg-id="ARTE.fr" tvg-logo="https://www.freenews.fr/wp-content/uploads/2015/03/Arte-logo.png" group-title="TEST",FR: Arte HD
+http://streaming-hub.com/stream/arte.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.sfrcaraibe.fr/mtq/wp-content/uploads/sites/2/2015/06/logo-indieslive.png" group-title="TEST",FR: INDIES LIVE
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+ 
+#EXTINF:0 tvg-name="BFMTV.fr" tvg-id="BFMTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BFMTV.png/450px-BFMTV.png" group-title="TEST",FR: BFM
+http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
+ 
+#EXTINF:0 tvg-name="France24.fr" tvg-id="France24.fr" tvg-logo="http://compass.xboxlive.com/assets/70/e3/70e37e36-acf0-4f53-adcc-4bcd68b64388.png?n=FRANCE%2024.png" group-title="TEST",FR: 24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr
+ 
+#EXTINF:0 tvg-name="Francophonie.fr" tvg-id="Francophonie.fr" tvg-logo="https://yt3.ggpht.com/-wnJaGZ8lmAM/AAAAAAAAAAI/AAAAAAAAAAA/MJ2gYbaCMAk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="TEST",FR: Francophonie
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+ 
+#EXTINF:0 tvg-name="TV7Bordeaux.fr" tvg-id="TV7Bordeaux.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/85/Tv7Bordeaux-logo.jpeg" group-title="TEST",FR: TV7
+http://62.210.204.108:1935/livtv7vo/myStream.smil/chunklist_w1048374224_b828000_slfra.m3u8
+ 
+#EXTINF:0 tvg-name="Alsace20" tvg-id="Alsace20" tvg-logo="http://www.televisionslocales.com/wp-content/uploads/photo-gallery/thumb/alsace20-300x200.png" group-title="TEST",FR: Alsace20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="https://lh6.googleusercontent.com/-qJ0LcuQL8fE/UgBBdKilQoI/AAAAAAAAA-c/IsEfZk1dnek/grand+lille+tv+live.png" group-title="TEST",FR: Grand Lille
+rtmp://str81.creacast.com/grandlilletv/high
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_la_tele_2014.png" group-title="TEST",FR: LaTele
+http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://i62.tinypic.com/k147wo.jpg" group-title="TEST",FR: MONACO
+rtmp://46.105.34.238/livepkgr/livestream2.flv
+ 
+#EXTINF:0 tvg-logo="http://www.televisionslocales.com/wp-content/uploads/photo-gallery/thumb/mirabelletv_300x200.png" group-title="TEST",FR: Mirabelle
+http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ed/RMC_D%C3%A9couverte_logo_2012.png" group-title="TEST",FR: RMC
+http://streaming-hub.com/stream/rmc.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.aweawards.be/image/sponsor/liege/Logo%20T%C3%A9l%C3%A9vesdre%20rouge%2090%20ko.png" group-title="TEST",FR: TELEVESDRE
+http://vm109.imust.org:1935/live/televesdre-live/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/557183277614628865/y6M76XIm.jpeg" group-title="TEST",FR: TV Lux
+rtmp://wowza.tvlux.imust.org/live/tvlux-live
+ 
+#EXTINF:0 tvg-logo="http://www.cherchemonnid.com/assets/img/press/1.jpg" group-title="TEST",FR: Tele FRANCE
+http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8
+ 
+#EXTINF:0 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/euronewsit.jpg" group-title="TEST",IT: EURONEWS
+http://fr-par-iphone-2.cdn.hexaglobe.net:80/streaming/euronews_ewns/iphone_it.m3u8
+ 
+#EXTINF:0 tvg-name="Apollonia" tvg-id="apollonia" tvg-logo="http://www.apolloniatv.ro/wp-content/uploads/2013/09/logo5.png" group-title="TEST",IT: Apollonia
+http://193.239.212.6:50000/apollonia
+ 
+#EXTINF:0 tvg-logo="http://ulango.tv/uploads/channels/15375/logo_napole%20canale%2022.png" group-title="TEST",IT: CANALE 21
+http://live.streamcaster.net:1935/canale21_live/canale21/livestream.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.cremona1.it/wp-content/uploads/2013/05/logo-cremona1.png" group-title="TEST",IT: Cremona1
+http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.musiconfestival.it/wp-content/themes/musiconfestival/img/lucaniatv_logo.png" group-title="TEST",IT: Lucania tv
+http://wms.shared.streamshow.it:80/lucaniatv/lucaniatv/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.orler.it/orlertv/wp-content/uploads/2015/12/orlertvlogo.png" group-title="TEST",IT: ORLER
+http://77.92.76.135:1935/orler/livestream/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/99/Ondatv.jpg" group-title="TEST",IT: Onda tv
+rtmp://live.streamcaster.net:1935/ondatv_live/ondatv
+ 
+#EXTINF:0 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/rainews24.jpg" group-title="TEST",IT: Rai News24
+http://rm-edge-8.cdn2.streamago.tv/streamagoedge/1917/810/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://english-club.tv/wp-content/uploads/2016/04/rai-scuola.jpg" group-title="TEST",IT: Rai Scuola
+http://originstream6.rai.it:80/italy/raiscuola.smil/chunklist_b900000.m3u8
+ 
+#EXTINF:0 tvg-logo="http://riviste.newbusinessmedia.it/wp-content/uploads/sites/16/2015/05/Trm.png" group-title="TEST",IT: TRM h24
+http://77.92.76.135:1935/TRM/livestream/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/1280px-Logo_tv2000_2015.svg.png" group-title="TEST",IT: TV 2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+ 
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-8gAN3pOqt7M/UK8We1rH1yI/AAAAAAAADjU/bya6H2ZbcJk/s1600/logo-telemia.png" group-title="TEST",IT: Telemia
+http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/742930771451752449/vwz5HyGw.jpg" group-title="TEST",IT: SKY TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.sotel.tv/ui/sotel/images/19_c.png" group-title="TEST",IT: RAI Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.operadifirenze.it/code/wp-content/uploads/Rai-5-440x240-257x140.png" group-title="TEST",IT: RAI 5
+http://originstream12.rai.it:1935/live/smil:rai5.smil/chunklist_b1200000.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.firstonetv.eu/images/logos/it/RAI_MOVIE.png" group-title="TEST",RAI Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.phonostar.de/images/auto_created/RTL_102_5184x184.png" group-title="TEST",IT: RTL 102.5
+http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/euronewses.jpg" group-title="TEST",ES: EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+ 
+#EXTINF:0 tvg-name="40HD" tvg-id="40HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Proyecto_40.png" group-title="TEST", ES 40HD
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
+ 
+#EXTINF:0 tvg-name="5TV" tvg-id="5TV" tvg-logo="http://vignette4.wikia.nocookie.net/pocoyoworld/images/e/e2/TV5_Logo.png" group-title="TEST",ES: 5TV
+http://video.gvstream.net:1935/e-tv-video/default.stream/live.m3u8
+ 
+#EXTINF:0 tvg-name="8TV" tvg-id="8TV" tvg-logo="http://blog.bcd-iurisport.com/wp-content/uploads/2016/06/logo-8-al-dia.jpg" group-title="TEST",ES: 8TV
+http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
+ 
+#EXTINF:0 tvg-name="Andalucia 8 TV" tvg-id="Andalucia 8 TV" tvg-logo="https://i.ytimg.com/i/T-pbWWpbBt-NQBaa2QrNUA/mq1.jpg" group-title="TEST",ES: Andalucia
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+ 
+#EXTINF:0 tvg-name="Antena 3" tvg-id="Antena 3" tvg-logo="http://www.guud.tv/images/clients/logo-antena3.png" group-title="TEST",ES: Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+ 
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-n5qglEitzSY/U3E1Y0TpJXI/AAAAAAAANf4/YPAxXbmdsHM/s1600/El+Ping%C3%BCino+TV+-+TV+Charkleons.png" group-title="TEST",ES: EL PINGOINO
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal13_logo.png/150px-Canal13_logo.png" group-title="TEST",ES: EL TRECE
+http://aztecalive-lh.akamaihd.net:80/i/0oxnvzh8a_1@175671/index_3_av-p.m3u8
+ 
+#EXTINF:0 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/4b/Efekto_tv.jpg" group-title="TEST",ES: Efecto TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_2_av-p.m3u8
+ 
+#EXTINF:0 tvg-logo="http://frocus.net/images/logotv/original/hispan_tv.jpg" group-title="TEST",ES: HISPAN TV
+http://efusion1-i.akamaihd.net/hls/live/252882/hispantv/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.ono.es/ono-resources/img/products-web/logos_parrilla_tv/img_logo_lasexta_hd.jpg" group-title="TEST",ES: La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+ 
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-nJ4p53AfL3k/UTi_DJ-iliI/AAAAAAAABaI/jDRtHV2lkRM/s1600/lancelot-tv.jpg" group-title="TEST",ES: Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+ 
+#EXTINF:0 tvg-logo="https://fernsehen-live-stream.org/uploads/posts/2017-01/1483389584_mega_spain.png" group-title="TEST",ES: Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-p.m3u8
+ 
+#EXTINF:0 tvg-logo="http://vercanalestv.com/logos/realmadrid.png" group-title="TEST",ES: REAL MADRID
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.ibidem-traduction.com/images/logo-telemadrid.gif" group-title="TEST",ES: Telemadrid
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadrid/_definst_/live/stream1.m3u8
+ 
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-MrgCEacoO7E/TtMhEPrAjDI/AAAAAAAAADI/Fmu2wUxMEvA/s1600/euronews%20Portugues.jpg" group-title="TEST",PT: EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.megatvaovivo.com/wp-content/uploads/2016/08/all-sports.png" group-title="TEST",PT: ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?IPTVONLINE
+ 
+#EXTINF:0 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/ADSports1.png" group-title="TEST",AR: SPORT 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.admedia.ae/images/abu-dhabi-al-riyadiya55d9864cf20ea-hub.jpg" group-title="TEST",AR: SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+ 
+#EXTINF:0 tvg-name="DubaiOne.net" tvg-id="DubaiOne.net" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1173_1.png" group-title="TEST",AR: Dubai One
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
+ 
+#EXTINF:0 tvg-name="dubaitv" tvg-id="dubaitv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" group-title="TEST",AR: Dubai TV
+http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b750000.m3u8
+ 
+#EXTINF:0 tvg-name="AbuDhabi.ar" tvg-id="AbuDhabi.ar" tvg-logo="http://logok.org/wp-content/uploads/2015/02/Abu-Dhabi-Airport-logo.png" group-title="TEST",AR: Abu Dhabi
+http://selevision9876-i.akamaihd.net/hls/live/219114/98766/1.m3u8
+ 
+#EXTINF:0 group-title="TEST",TV Asta
+http://xeon.asta-net.pl/trans.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF:0 group-title="TEST",HIPHOP TV
+http://stream.smcloud.net/live/hiphoptv/playlist.m3u8
+ 
+#EXTINF:0 group-title="TEST",ESKA PARTY
+rtmp://stream.smcloud.net/tv/eska_party/eska_party_720p
+ 
+#EXTINF:0 group-title="TEST",ESKA ROCK
+rtmp://stream.smcloud.net/tv/eska_rock/eska_rock_720p
+ 
+#EXTINF:0 group-title="TEST",ESKA TV
+http://stream.smcloud.net/live/eskatv/playlist.m3u8
+ 
+#EXTINF:0 group-title="TEST",SPORT BG
+http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
+ 
+#EXTINF:0 group-title="TEST",Polo PARTY TV
+http://stream.smcloud.net/tv/polo_party/polo_party_720p/playlist.m3u8
+ 
+#EXTINF:0 group-title="TEST",Polo TV
+http://stream.smcloud.net/live/polotv/index.m3u8
+ 
+#EXTINF:0 group-title="TEST",Fokus Tv
+rtmp://stream.smcloud.net/live/fokustv
+ 
+#EXTINF:0 group-title="TEST",Kanal 3 BG
+http://ios.cdn.bg:2017/fls/kanal3.stream/playlist.m3u8
+ 
+#EXTINF:0 group-title="TEST",OZR ARENA
+http://94.181.188.57/hls/ozrarena.m3u8
+ 
+#EXTINF:0 group-title="TEST",Ocko
+http://ocko-live.service.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+ 
+#EXTINF:0 group-title="TEST",Ocko gold
+http://se01.se.ocko-live.service.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+ 
+#EXTINF:0 group-title="TEST",On Air BG
+http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+ 
+#EXTINF:0 group-title="TEST",Publica TV (Mold)
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+ 
+#EXTINF:0 group-title="TEST",TV+
+http://141.136.14.18/kanal1/kanal1.m3u8
+ 
+#EXTINF:0 group-title="TEST",Almaty
+http://vs8.cdn.ott.otautv.kz/dtv/id10_KTR_SG--Almaty/03/plst.m3u8
+#EXTINF:0 group-title="TEST",Planeta
+http://wse.planeta-online.tv:1935/live/channel_130/chunklist.m3u8
+#EXTINF:0 group-title="TEST",Ntk
+http://ntk.cdnvideo.ru:1935/ntk-live//ntk.sdp/playlist.m3u8
+#EXTINF:0 group-title="TEST",Ktklive
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:0 group-title="TEST 2",Vizion Plus
+http://85.114.128.105:8000/live/za84/home1/25.ts
+#EXTINF:0 group-title="TEST 2",TVSH
+http://85.114.128.105:8000/live/za84/home1/15.ts
+#EXTINF:0 group-title="TEST 2",Mtv Kosova
+http://85.114.128.105:8000/live/za84/home1/18.ts
+#EXTINF:0 group-title="TEST 2",Turbo Channel
+http://85.114.128.105:8000/live/za84/home1/24.ts
+#EXTINF:0 group-title="TEST 2",Tring Sport 1
+http://85.114.128.105:8000/live/za84/home1/21.ts
+#EXTINF:0 group-title="TEST 2",Top Ch
+http://85.114.128.105:8000/live/za84/home1/13.ts
+#EXTINF:0 group-title="TEST 2",T HD
+http://85.114.128.105:8000/live/za84/home1/23.ts
+#EXTINF:0 group-title="TEST 2",RTK 4
+http://85.114.128.105:8000/live/za84/home1/27.ts
+#EXTINF:0 group-title="TEST 2",RTK 3
+http://85.114.128.105:8000/live/za84/home1/26.ts
+#EXTINF:0 group-title="TEST 2",Klan Kosova
+http://85.114.128.105:8000/live/za84/home1/12.ts
+#EXTINF:0 group-title="TEST 2",Klan HD
+http://85.114.128.105:8000/live/za84/home1/14.ts
+#EXTINF:0 group-title="TEST 2",Folk +
+http://85.114.128.105:8000/live/za84/home1/20.ts
+#EXTINF:0 group-title="TEST 2",First Channel
+http://85.114.128.105:8000/live/za84/home1/16.ts
+#EXTINF:0 group-title="TEST 2",Film Hits
+http://85.114.128.105:8000/live/za84/home1/22.ts
+#EXTINF:0 group-title="TEST 2",Dukagjini HD
+http://85.114.128.105:8000/live/za84/home1/17.ts
+#EXTINF:0 group-title="TEST 2",BBF
+http://85.114.128.105:8000/live/za84/home1/19.ts
+#EXTINF:0 group-title="TEST 2",Tring Sport2
+http://85.114.128.105:8000/live/za84/home1/11.ts
+#EXTINF:0 group-title="TEST 2",Rtl
+http://85.114.128.105:8000/live/za84/home1/10.ts
+#EXTINF:0 group-title="TEST 2",ss2
+http://85.114.128.105:8000/live/za84/home1/9.ts
+#EXTINF:0 group-title="TEST 2",RTK
+http://85.114.128.105:8000/live/za84/home1/7.ts
+#EXTINF:0 group-title="TEST 2",SS4
+http://85.114.128.105:8000/live/za84/home1/8.ts
+#EXTINF:0 group-title="TEST 2",Telesport
+http://85.114.128.105:8000/live/za84/home1/6.ts
+#EXTINF:0 group-title="TEST 2",SS3
+http://85.114.128.105:8000/live/za84/home1/5.ts
+#EXTINF:0 group-title="TEST 2",SS1
+http://85.114.128.105:8000/live/za84/home1/3.ts
+#EXTINF:0 group-title="TEST 2",Rtv21
+http://85.114.128.105:8000/live/za84/home1/1.ts
+#EXTINF:0 group-title="TEST 2",Alsat M
+http://85.114.128.105:8000/live/za84/home1/2.ts
+#EXTINF:0 group-title="TEST 2",DE_ARD
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/sky1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/sky1hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/sky2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skyarts1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skyatlanticextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skydisneyhdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skylivingextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skylivinghdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skymovactionextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skymovcomedyextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skymovdisneyextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skymovdramaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skymovdramahdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skymovfamilyextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skymovgreatsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skymovpremhdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skymovscifiextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skymovscifihdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skymovselectextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skynewsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skynewshdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skyppvextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skysports1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skysports1hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skysports2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skysports2hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skysports3extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skysports3hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skysports4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skysports5extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skysports5hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skysportsf1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skysportsf1hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skysportsmixextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skysportsnewsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+ 
+#EXTINF:0 group-title="TEST 2",sky..
+http://mcdn-play-358.5centscdn.net/skythrillerhdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8

@@ -1,0 +1,47 @@
+SELEÇÃO DE CANAIS EM: http://pastebin.com/raw/HyFjh35W
+
+SBT HD
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/chunklist.m3u8
+
+GLOBO RJ
+http://95.141.32.213:8081/look/globo90/playlist.m3u8
+
+GLOBO SP
+http://158.58.172.5:8081/look/sptv81/playlist.m3u8
+
+RECORD
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+
+TV CULTURA HD
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
+
+TV VITORIA ES
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+WEB-TV VIA MORENA
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+
+TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+TV GERAL BAHIA
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
+
+REDE FAMILIA
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+SESC TV
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8
+
+LISTAS OK DO SITE https://www.speedyiptv.com/freeiptvlinks/free-m3u-playlist-15-9-2017-new-m3u/
+
+RUSSIA, E VARIOS OUTROS
+http://195.69.222.173:8080/get.php?username=hamza&password=hamza&type=m3u
+
+ARABE, SPORTS, 
+http://163.172.18.54:8000/get.php?username=5245G0LCKqd94P&password=25TE014mD41788&type=m3u
+
+VARIOS EM HD (NFL, NICKELODEON, NATIONAL GEOGRAPHIC, FOX, ETC)
+http://thepk.co:2095/get.php?username=mark123&password=mark123&type=m3u
+
+ARABE E VARIOS

@@ -1,0 +1,39 @@
+LINKS PARA DESENVOLVIMENTO DA TV
+
+
+
+
+SITE PARA REPRODUZIR IP-TV
+
+https://gist.github.com/thekacer/739eac0ff1cb7a5564cf#file-iptv-m3u
+https://gist.github.com/thekacer/739eac0ff1cb7a5564cf#file-iptv-m3u
+http://www.iptvembed.net/pastebin-iptv/
+
+
+
+LISTAS QUE FUNCIONAM
+
+https://iptvlistaatualizada.com.br/lista-de-canais-08022017-para-iptv-playlistv-e-kodi-atualizadas/
+
+	01 - http://listaiptvbrasil.com/tt.txt
+	
+	02 - http://pastebin.com/raw/EirNZNry
+	
+	03 - https://raw.githubusercontent.com/claudiogames/topcine.m3u/master/topcine.txt
+	
+	04 - http://pastebin.com/raw/HyFjh35W
+	
+	05 - http://pastebin.com/Y0sDeysd
+
+
+
+IDEIAS DE IMPLEMENTAÇÃO
+http://uk.businessinsider.com/watch-90s-shows-online-for-free-with-my-90s-tv-2015-3
+
+http://www.my90stv.com/#kCV5q2O0p1o
+
+
+
+NFL INFORMAÇÕES IMPORTANTES
+
+https://www.codeproject.com/Questions/660101/How-to-create-component-for-online-tv-iptv-in-csha

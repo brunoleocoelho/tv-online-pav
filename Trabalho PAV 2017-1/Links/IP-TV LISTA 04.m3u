@@ -1,0 +1,564 @@
+LISTA EM: http://pastebin.com/raw/HyFjh35W
+
+#EXTM3U
+
+
+#EXTINF:0 type="favorites" channelId="2467" tvg-name="Tv Cultura" tvg-group="Canais abertos" , Tv Cultura HD
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="2467" tvg-name="Tv Cultura" tvg-group="Canais abertos" , Tv Cultura SD
+http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8
+#EXTINF:0 type="favorites" channelId="2571" , SBT HD
+http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbtbkp.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/sbt.png" group-title="CANAL ABERTO",SBT HD
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/chunklist.m3u8
+
+#EXTINF:0 type="favorites" channelId="1653" , TV Globo Portugal
+http://62.167.50.245:8000/play/a06c
+#EXTINF:-1 , globo
+http://5.79.68.138:8081/look/sportv2/playlist.m3u8
+#EXTINF:0 , Globo
+http://89.248.172.145:8088/live/globoaovivo2/playlist.m3u8?id=24831&wowzasessionid=3773726309&pk=5d103d2ec658a5719dea4fccf800105017cded0296af8f422cddaa306347d10a
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/globo.png" group-title="CANAL ABERTO",GLOBO 
+http://tv.redecanais.com:1935/redecanaisglobo/myStream/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="2616" , Canal Viva
+http://iptvbrasil.dyndns.tv:8080/live/Silvanoiptv/1986/36.ts
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redetv.png" group-title="CANAL ABERTO",REDETV HD
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1, RECORD 
+http://85.7.107.8:8012/play/a003
+#EXTINF:-1 , RECORD 
+http://srv3.zoeweb.tv:1935/zw315/tvsucesso/playlist.m3u8
+#EXTINF:-1 ,  RECORD 
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/acritica.JPG" group-title="CANAL ABERTO", ACRÍTICA PLAY - RECORD MANAUS
+http://iphone-streaming.ustream.tv:80/uhls/22972089/streams/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvvitoria.png" group-title="CANAL ABERTO", TV Vitoria RECORD ES HD
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/rictv.png" group-title="CANAL ABERTO",RECORD PR HD
+http://caikron.com.br:1935/ricpr/curitiba.stream/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="2456" , Record News
+http://62.167.50.245:8000/play/a051
+
+#EXTINF:-1 , TV GAZETA 
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/band.png" group-title="CANAL ABERTO", BAND
+http://5.79.68.138:8081/look/band/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/band.png" group-title="CANAL ABERTO", BAND 
+http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
+#EXTINF:-1,BAND NEWS 1 (5)
+http://5.79.68.138:8081/look/bandnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/discoverykids.png" group-title="INFANTIL", DISNEY CHANNEL
+http://tv.redecanais.com:1935/redecanaisdisneychannel/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lut.im/zE4LH74mgZ/6W8MfBRgoLqtTTCm.png" group-title="INFANTIL", NICKELODEON
+http://tv.redecanais.com:1935/redecanaisnick/myStream/playlist.m3u8
+#EXTINF:-1,Baby TV
+http://edge564.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8
+#EXTINF:-1,SIC K
+http://178.193.237.115:9000/play/a08h
+#EXTINF:-1,Canal Panda
+http://62.167.50.245:8000/play/a05v
+#EXTINF:-1,JimJam
+http://178.193.237.115:9000/play/a08i
+#EXTINF:-1,Disney Channel
+http://edge564.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://62.167.50.245:8000/play/a060
+#EXTINF:0 type="favorites" tvg-group="Religiosos" tvg-logo="http://s20.postimg.org/ht2ii7u7h/cjctv.png" , CJC TV
+http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="Religiosos" tvg-logo="http://s20.postimg.org/66ieh36wd/portalgospeltv.png" , Portal Gospel TV
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" channelId="2451" tvg-group="Religiosos" tvg-logo="http://s20.postimg.org/7qnqfhfal/redevida.png" , Rede Vida
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" channelId="2624" tvg-group="TV Aberta" tvg-logo="http://s20.postimg.org/pirdnrjxp/SESC_TV.png" , SESC TV
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s29.postimg.org/ihddsrsfb/Logotipo_da_Rede_Meio_Norte.png" , Rede Meio Norte
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s20.postimg.org/ct9no0dyl/tvultrafarma.png" , TV Ultrafarma
+http://wse.transmissaodigital.com:1935/cinealta4145/cinealta4145/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s22.postimg.org/asqww16cx/TV_RBC.png" , TV RBC
+http://flash1.crossdigital.com.br/ponto10/latina/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s20.postimg.org/oh3pik33h/tvinforma_o.jpg" , TV Informação
+http://video2.sinoinformatica.com.br:1935/cmtupa-live/sessaoaovivo/livestream.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s11.postimg.org/ltjwgimfn/Canal_25.png" , Canal 25
+http://209.126.127.124:1935/tvmar/tvmar/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s16.postimg.org/axul05l4l/TV_Paran.jpg" , TV Paraná
+http://200.189.113.201/hls/tve.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s16.postimg.org/6m5zb5e7p/TV_Medicina_Sa_de.png" , TV Medicina & Saúde
+http://rtmp.cdn.upx.net.br/7dcb/myStream.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" , TV INES
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s16.postimg.org/kc0ijy1bp/TV_Indaiatuba.png" , TV Indaiatuba
+http://172.93.110.130:1935/esporte/esporte/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s16.postimg.org/ovcr5gj79/TV_Guarany.png" , TV Guarany
+http://wse.stmip.in:1935/rtguarany/rtguarany/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s14.postimg.org/q5ktdtgxt/TV_Goi_s.jpg" , TV Goiás
+http://painelvj.com.br:1935/tvgoias/tvgoias.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s12.postimg.org/81pdogngt/TV_Est_dio_Brasil.png" , TV Estúdio Brasil
+http://stmv2.srvstm.com/tvestudiobrasil/tvestudiobrasil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s14.postimg.org/8htvb9k1t/TV_Digital_Birigui.jpg" , TV Digital Birigui
+http://tv01.hstbr.net:1935/radiodigitalbirigui/radiodigitalbirigui/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s11.postimg.org/l4gjn0o4j/TV_Di_rio_do_Sert_o.png" , TV Diário do Sertão
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s15.postimg.org/6o108ctaz/TV_DC_46.jpg" , TV DC 46
+http://142.4.219.208:1935/robsonmarcelho474/robsonmarcelho474/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s16.postimg.org/utlz1ycs5/TV_Costa_Norte.jpg" , TV Costa Norte
+http://flash1.crossdigital.com.br:1935/1352/1352/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s16.postimg.org/jsqtwxkj9/TV_CN_Agitos.jpg" , TV CN Agitos
+http://wsemedia.com:1935/cn01/cn01/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s16.postimg.org/vs2c48q45/TV_Cidade_Oeste.png" , TV Cidade Oeste
+http://radios.primedata.com.br:1935/tvcidadeoeste/oeste.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s16.postimg.org/vqwzokdo5/TV_Mantiqueira.jpg" , TV Mantiqueira
+http://streaming63.sitehosting.com.br:1935/rlcom/_definst_/rlcom/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s18.postimg.org/dch9vxnyx/Multi_TV.png" , MultiTV
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s21.postimg.org/64sqp9hlj/TV_Pantanal_MS.png" , TV Pantanal MS
+http://78.46.36.212:1935/tvpantanalms/tvpantanalms/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s20.postimg.org/fr6mhplm5/RCTV.jpg" , RCTV
+http://flash1.crossdigital.com.br/491/491/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s20.postimg.org/tqynqozot/Rede_Minas.png" , Rede Minas
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s20.postimg.org/fi91rs8tp/Rede_Familia.png" , Rede Familia
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" channelId="2630" tvg-group="TV Aberta" tvg-logo="http://s20.postimg.org/5aqifdmlp/Canal_Do_Boi.png" , Canal Do Boi
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" channelId="2652" tvg-group="TV Aberta" tvg-logo="http://s20.postimg.org/9l9roph2l/Canal_Rural.png" , Canal Rural
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s20.postimg.org/pksf89d4d/Canal_Rural_X.png" , Canal Rural X
+http://77149o.ha.azioncdn.net/hlslow/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:0 type="favorites" channelId="2459" tvg-group="TV Aberta" tvg-logo="http://s20.postimg.org/lw2q8s33h/TV_Di_rio.png" , TV Diário
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:0 type="favorites" tvg-logo="http://i.imgur.com/CXchIJi.png" , TV GERAL BA
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
+#EXTINF:0 type="favorites" channelId="2457" tvg-logo="http://vanbrandao.com.br/wp-content/uploads/2012/03/amazon-sat.png" , AMAZON SAT
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+#EXTINF:0 type="favorites" tvg-logo="https://lh6.googleusercontent.com/-33ScSMDw0j4/TYlbT449xyI/AAAAAAAAAXM/EJo4jYHKT50/s200/bhnewstv.png" , BH NEWS
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8
+#EXTINF:0 type="favorites" tvg-logo="http://tv-online.in/wp-content/uploads/2012/11/Via-Morena-Original.gif" , WEB TV VIA MORENA
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="2448" tvg-logo="https://lh6.googleusercontent.com/-qFnnysV7Tpc/VQT8BrsnjOI/AAAAAAAAAFg/QdquO91K0CE/s80/aparecida.png" , TV APARECIDA
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8?IPTVBRASILHD
+#EXTINF:0 type="favorites" channelId="2449" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Cançao_Nova.png/200px-Logotipo_da_TV_Cançao_Nova.png" , canção NOVA
+http://cnhls-lh.akamaihd.net:80/i/tvcnmob_1@147036/index_540_av-b.m3u8
+#EXTINF:0 type="favorites" tvg-logo="https://lh5.googleusercontent.com/-j8OSNQd7lpk/VQT8T-Y9ixI/AAAAAAAAAJY/7rIbbSfmToc/s80/recordnews.png" , RECORD NEWS ES
+http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
+#EXTINF:0 type="favorites" tvg-logo="https://lh5.googleusercontent.com/-j8OSNQd7lpk/VQT8T-Y9ixI/AAAAAAAAAJY/7rIbbSfmToc/s80/recordnews.png" , RECORD NEWS TO
+http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8?wowzasessionid=1560830726
+#EXTINF:0 type="favorites" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/52/RMTVsecond.jpg" , REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0 type="favorites" channelId="1710" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Virgin.svg/150px-Virgin.svg.png" , VIRGIN TV
+http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8
+#EXTINF:0 type="favorites" tvg-logo="https://lut.im/8GWlkoeV6n/8Z03YH2qrOdt78d4.png" , TV CLIPES
+http://stmv1.euroti.com.br:1935/stmdemo/stmdemo/live.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO CANAL 
+http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
+#EXTINF:-1,  TVI 24 
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/jn.m3u8
+#EXTINF:-1,  EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
+#EXTINF:-1,  CLASS TV MODA 
+http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
+
+#EXTINF:0 type="favorites" channelId="2574" , Band Sports
+http://ev.mm.uol.com.br:1935/geobband/operadoras/chunklist_w1057155891.m3u8
+#EXTINF:0 type="favorites" channelId="2443" , Esporte Interativo
+http://enlsso9vfh.singularcdn.net.br/live/canal_12/playlist-720p.m3u8
+#EXTINF:0 type="favorites" channelId="2906" , EI Maxx 2
+http://enlsso9vfh.singularcdn.net.br/live/canal_11/playlist-720p.m3u8
+#EXTINF:0 type="favorites" channelId="2905" tvg-logo="http://aovivonatv.com/fotos/57dfa2b1e710ffc4059dd9f7db7f9eb7.jpg" , EI Maxx
+http://vrzn-ei-ee.cdn.mdstrm.com/live-stream/580126d58e928419094b5527/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+#EXTINF:0 type="favorites" channelId="2906" , EI Maxx 2
+http://vrzn-ei-ee.cdn.mdstrm.com/live-stream/581217ec07abdae708928111/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/espnbrasil.png" group-title="ESPORTES", ESPN BRASIL
+http://95.211.149.215:8081/look/espnbr/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lut.im/dI7Ylom0As/bCAMFDZriC0DMWWJ.png" group-title="CANAIS", ESPN
+http://5.79.68.138:8081/look/espn/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="ESPORTES", FOX SPORTS SD
+http://5.79.68.138:8081/look/foxsport/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="2891" tvg-group="ESPORTES" tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" , FOX SPORTS HD
+http://link.theplatform.com/s/flac/pDqM__z_pkCD?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+#EXTINF:0  , Fox Sports hd
+http://89.248.172.145:8088/live/foxsportsaovivo/playlist.m3u8?id=24831&wowzasessionid=3773726309&pk=5d103d2ec658a5719dea4fccf800105017cded0296af8f422cddaa306347d10a
+#EXTINF:0 type="stream" channelId="170" , Fox Sports 2
+http://link.theplatform.com/s/flac/8sGhDeM4tLBi?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8
+
+
+#EXTINF:0 type="favorites" channelId="2596" , Premiere
+http://62.167.50.245:8000/play/a06b
+
+#EXTINF:-1,Sport TV 1 HD
+http://62.167.50.245:8000/play/a07l
+#EXTINF:-1,SPORT TV 1
+http://62.167.50.245:8000/play/a05s
+#EXTINF:-1,Sport TV 2 HD
+http://178.193.237.115:9000/play/a08o
+#EXTINF:-1,SPORT TV 2
+http://62.167.50.245:8000/play/a04j
+#EXTINF:-1,SPORT TV 3
+http://178.193.237.115:9000/play/a08b
+#EXTINF:-1,SPORT TV 3 HD
+http://178.193.237.115:9000/play/a08b
+#EXTINF:-1,SPORT TV 4
+http://62.167.50.245:8000/play/a043
+#EXTINF:-1,BTV 1 HD
+http://62.167.50.245:8000/play/a07r
+#EXTINF:0 type="favorites" channelId="2599" , SporTV
+http://hls.megadash.xyz/s/canalrural567/oe69e.m3u8?h=5uewf27oAwX1ftApTtCnLQ
+#EXTINF:0 type="favorites" channelId="2599" , SporTV
+http://46.28.53.160:8088/adfree/Sportvonline28/playlist.m3u8?id=Igor_Rangel&wowzasessionid=3877058077&pk=5d103d2ec658a5719dea4fccf800105017cded0296af8f422cddaa306347d10a
+#EXTINF:-1,SPORTV
+http://5.79.68.138:8081/look/sportv/playlist.m3u8
+#EXTINF:-1,SPORTV2 
+http://5.79.68.138:8081/look/sportv2/playlist.m3u8
+#EXTINF:-1,SPORTV3 
+http://5.79.68.138:8081/look/sportv3/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="2595" tvg-logo="https://listaiptvbrasil.com/logo/combate.png" , COMBATE
+http://5.79.68.138:8081/look/combate/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" group-title="PORTUGAL",TVCINE 1 
+http://85.7.107.8:8010/play/a03u
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" group-title="PORTUGAL",TVCINE 2 
+http://85.7.107.8:8012/play/a01c
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" group-title="PORTUGAL",TVCINE 3 
+http://85.7.107.8:8012/play/a01d
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" group-title="PORTUGAL",TVCINE 4 
+http://85.7.107.8:8010/play/a04r
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" group-title="PORTUGAL",TVSERIES 
+http://85.7.107.8:8010/play/a034
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_HOLLYWOOD" group-title="PORTUGAL",HOLLYWOOD 
+http://85.7.107.8:8012/play/a008
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/250px-AMC_logo_2013.png" group-title="PORTUGAL",AMC 
+http://178.193.237.115:9000/play/a08g
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" group-title="PORTUGAL",CINEMUNDO 
+http://85.7.107.8:8012/play/a005
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" group-title="PORTUGAL",FOX MOVIES 
+http://85.7.107.8:8010/play/a04o
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" group-title="PORTUGAL",AXN 
+http://85.7.107.8:8011/play/a00f
+#EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png" group-title="PORTUGAL",FOX LIFE HD 
+http://85.7.107.8:8010/play/a036
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" group-title="PORTUGAL",FOX CRIME HD 
+http://178.193.237.115:9000/play/a00m
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" group-title="PORTUGAL",FOX COMEDY 
+http://178.193.237.115:9000/play/a06w
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QDCk6tH.png" group-title="PORTUGAL",AXN WHITE 
+http://85.7.107.8:8010/play/a037
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kSJMp6w.png" group-title="PORTUGAL",AXN BLACK 
+http://85.7.107.8:8010/play/a03b
+#EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" group-title="PORTUGAL",SYFY 
+http://85.7.107.8:8012/play/a00l
+
+
+#EXTINF:0 type="favorites" channelId="1605" , cine sky
+http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8?wowzasessionid=412620615
+
+#EXTINF:0 type="favorites" channelId="2610" , Telecine Premium
+http://80.82.64.144:8088/live/tvtcpremumaovivo/playlist.m3u8?wowzasessionid=667237974&pk=5d103d2ec658a5719dea4fccf800105017cded0296af8f422cddaa306347d10a
+#EXTINF:0 type="favorites" channelId="2603" , Telecine Action
+http://89.248.168.205:8088/live/tcacionaovivo2/playlist.m3u8?id=24831&wowzasessionid=730930509&pk=5d103d2ec658a5719dea4fccf800105017cded0296af8f422cddaa306347d10a
+#EXTINF:0 type="favorites" channelId="2608" tvg-group="FILMES" tvg-logo="https://lut.im/p0RGuT3bKK/rvNms9eI2UOqtge8.png" , TELECINE PIPOCA
+http://5.79.68.138:8081/look/tcpipoca/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="2588" tvg-group="FILMES" tvg-logo="https://s2.glbimg.com/YmzFXfqM7A_fRwhbMp3AzjPpwEw=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/3c/45/8e98b42584b1a930aee9241e73fa.png" , MEGAPIX
+http://5.79.68.138:8081/look/megapix/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="1330" , HBO
+http://80.82.64.144:8088/live/tvhboaovivo/playlist.m3u8?wowzasessionid=667237974&pk=5d103d2ec658a5719dea4fccf800105017cded0296af8f422cddaa306347d10a
+#EXTINF:0 type="favorites" channelId="177" , Fox
+http://80.82.65.164:8088/live/tvfoxaovivo/playlist.m3u8?id=24831&wowzasessionid=7867514631&pk=5d103d2ec658a5719dea4fccf800105017cded0296af8f422cddaa306347d10a
+#EXTINF:0 type="favorites" channelId="177" , Fox
+http://89.248.172.145:8088/live/tvfoxaovivo/playlist.m3u8?id=24831&wowzasessionid=3773726309&pk=5d103d2ec658a5719dea4fccf800105017cded0296af8f422cddaa306347d10a
+#EXTINF:0 type="favorites" channelId="2557" , Warner TV
+http://94.102.51.67:8088/live/warneraovivo2/playlist.m3u8?id=24831&wowzasessionid=3863021907&pk=5d103d2ec658a5719dea4fccf800105017cded0296af8f422cddaa306347d10a
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" group-title=,DISCOVERY 
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+#EXTINF:0 type="favorites" channelId="57" , Discovery Channel
+http://5.79.68.138:8081/look/discovery/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="1455" , History
+http://5.79.68.138:8081/look/history/playlist.m3u8
+#EXTINF:-1,Playboy TV
+http://178.193.237.115:9000/play/a078
+#EXTINF:-1,Discovery Channel
+http://85.7.107.8:8012/play/a00o
+#EXTINF:-1,National Geographic HD
+http://178.193.237.115:9000/play/a06r
+#EXTINF:-1,Odisseia
+http://85.7.107.8:8012/play/a00p
+#EXTINF:-1,Nat Geo Wild
+http://178.193.237.115:9000/play/a06r
+#EXTINF:-1,Historia
+http://62.167.50.245:8000/play/a03t
+#EXTINF:0,RADIO ROBERTO CARLOS FM
+http://192.99.150.31:9137/stream
+#EXTINF:-1, SAUDADE ANOS 80
+http://192.99.150.31:8697/stream?IPTVONLINE
+#EXTINF:-1, SERTANEJO UNIVERSITARIO
+http://192.99.150.31:9191/stream?IPTVONLINE
+#EXTINF:-1, GOSPEL
+http://192.99.150.31:9101/stream?IPTVONLINE
+#EXTINF:-1, DISCOTECA ANOS 70
+http://192.99.150.31:8241/stream?IPTVONLINE
+#EXTINF:-1, VERSAO BRASILEIRA
+http://192.99.150.31:8849/stream?IPTVONLINE
+#EXTINF:-1, AXE FOLIA
+http://192.99.150.31:8305/stream?IPTVONLINE
+#EXTINF:-1, BOLEROS EM SERESTA
+http://192.99.150.31:9131/stream?IPTVONLINE
+#EXTINF:-1, BREGA HITS
+http://192.99.150.31:9007/stream?IPTVONLINE
+#EXTINF:-1, CLUBE DA CRIANCA
+http://192.99.150.31:9431/stream?IPTVONLINE
+#EXTINF:-1, COUNTRY
+http://192.99.150.31:8111/stream?IPTVONLINE
+#EXTINF:-1, DUBSTEP
+http://192.99.150.31:9083/stream?IPTVONLINE
+#EXTINF:-1, ELECTRO HOUSE
+http://192.99.150.31:9095/stream?IPTVONLINE
+#EXTINF:-1, EURODANCE ANOS 90
+http://192.99.150.31:8056/stream?IPTVONLINE
+#EXTINF:-1 , FORRO
+http://192.99.150.31:9019/stream?IPTVONLINE
+#EXTINF:-1, FUNK
+http://192.99.150.31:9089/stream?IPTVONLINE
+#EXTINF:-1, HIP HOP
+http://192.99.150.31:8721/stream?IPTVONLINE
+#EXTINF:-1, JOVEM GUARDA
+http://192.99.150.31:8801/stream?IPTVONLINE
+#EXTINF:-1, LOVE SONGS
+http://192.99.150.31:8897/stream?IPTVONLINE
+ #EXTINF:-1,Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF:-1, MEGA MIX
+http://192.99.150.31:9161/stream?IPTVONLINE
+#EXTINF:-1,Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream
+#EXTINF:-1,New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+#EXTINF:-1, MPB MUSICALIDADE
+http://192.99.150.31:8775/stream?IPTVONLINE
+ #EXTINF:-1,Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+#EXTINF:-1, NEW AGE
+http://192.99.150.31:8353/stream?IPTVONLINE
+#EXTINF:-1,Lounge
+http://6d9a.webradio.upx.net.br:9064/stream
+#EXTINF:-1,Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+#EXTINF:-1, PAGODE
+http://192.99.150.31:9113/stream?IPTVONLINE
+#EXTINF:-1,Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+#EXTINF:-1,Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:-1, SERTANEJO RAIZES
+http://192.99.150.31:9155/stream?IPTVONLINE
+#EXTINF:-1,Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1, RAP NACIONAL
+http://192.99.150.31:8377/stream?IPTVONLINE
+ 
+#EXTINF:-1, REGGAE
+http://192.99.150.31:8715/stream?IPTVONLINE
+ 
+#EXTINF:-1, ROBERTO CARLOS
+http://192.99.150.31:9137/stream?IPTVONLINE
+ 
+#EXTINF:-1, ROCK CLASSICO
+http://192.99.150.31:9125/stream?IPTVONLINE
+ 
+#EXTINF:-1, RODEIO
+http://192.99.150.31:9473/stream?IPTVONLINE
+ 
+#EXTINF:-1, SERTANEJA
+http://192.99.150.31:9485/stream?IPTVONLINE
+ 
+#EXTINF:-1, SMOOTH JAZZ
+http://192.99.150.31:8042/stream?IPTVONLINE
+ 
+#EXTINF:-1, TECHNO
+http://192.99.150.31:8301/stream?IPTVONLINE
+ 
+#EXTINF:-1, TECNO BREGA
+http://192.99.150.31:8989/stream?IPTVONLINE
+ 
+#EXTINF:-1, STUDIO DO AMOR
+http://192.99.150.31:8962/stream?IPTVONLINE
+ 
+#EXTINF:-1, HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream?I
+#EXTINF:-1,Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Batman.jpg" group-title="Desenhos 24 horas",Batman
+rtmp://208.53.164.194/live/ playpath=batman swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://www.carolineoliveira.com.br/tvamigos/batman.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Ben10.jpg" group-title="Desenhos 24 horas",Ben 10
+rtmp://208.53.164.194/live/ playpath=ben10 swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/ben10.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Bob%20Esponja.jpg" group-title="Desenhos 24 horas",Bob Esponja
+rtmp://208.53.164.194/live/ playpath=bob swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://www.carolineoliveira.com.br/tvamigos/bobesponja.html
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Bob%20Esponja.jpg" group-title="Desenhos 24 horas",Bob Esponja 
+rtmp://208.53.164.194/live/ playpath=bob swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/bobesponja.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Cavaleiros%20do%20Zodiaco.jpg" group-title="Desenhos 24 horas",Cavaleiros do Zodiaco
+rtmp://208.53.164.194/live/ playpath=cdz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://www.carolineoliveira.com.br/tvamigos/cdz.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CAVERNA.jpg" group-title="Desenhos 24 horas",Caverna do Dragao
+rtmp://208.53.164.194/live/ playpath=caverna swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://www.carolineoliveira.com.br/tvamigos/caverna.html
+
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Doug.jpg" group-title="Desenhos 24 horas",Doug
+rtmp://208.53.164.194/live/ playpath=doug swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://www.carolineoliveira.com.br/tvamigos/doug.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Dragon-Ball-Z-logo.jpg" group-title="Desenhos 24 horas",Dragon Ball Z
+rtmp://208.53.164.194/live/ playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/dbz.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Dragon-Ball-Z-logo.jpg" group-title="Desenhos 24 horas",Dragon Ball Z 
+rtmp://208.53.164.194/live/ playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/dbz.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Familia%20Dinossauro.jpg" group-title="Desenhos 24 horas",Familia Dinossauros
+rtmp://208.53.164.194/live/ playpath=dino swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/dinossauros.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/bob.jpg" group-title="Desenhos 24 horas",Fantastico mundo de Bobby
+rtmp://208.53.164.194/live/ playpath=bobby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL live=1 pageUrl=http://aovivobrasil.com/tvamigos/bobby.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Futurama.jpg" group-title="Desenhos 24 horas",FUTURAMA
+rtmp://208.53.164.194/live/ playpath=futurama swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/futurama.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Galinha%20Pintadinha.jpg" group-title="Desenhos 24 horas",Galinha Pintadinha
+rtmp://208.53.164.194/live/ playpath=galinha swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/galinhapintadinha.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/LigadaJusti.jpg" group-title="Desenhos 24 horas",Liga da Justica
+rtmp://208.53.164.194/live/?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDE1IDY6MDA6MDYgUE0maGFzaF92YWx1ZT1qbHRoSXBhSm9FV0xVdkNDdm1YdW1BPT0mdmFsaWRtaW51dGVzPTU=/ playpath=liga swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/liga.php
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-IazrUOaabTk/Vx4zeu1yiNI/AAAAAAAAHz4/AZb3jPLfBhEEnS8dilmmey7ix7OHBdY-wCLcB/s1600/jackie.jpg" group-title="Desenhos 24 horas",Jackie chan
+rtmp://208.53.164.194/live/ playpath=jackie swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/jackie.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/jaspion.jpg" group-title="Desenhos 24 horas",Jaspion
+rtmp://208.53.164.194/live/ playpath=jaspion swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://aovivobrasil.com/tvamigos/jaspion.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Naruto.jpg" group-title="Desenhos 24 horas",Naruto DB
+rtmp://208.53.164.194/live/ playpath=naruto swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/naruto.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Os%20Flintstones.jpg" group-title="Desenhos 24 horas",Os FLINTSTONES
+rtmp://208.53.164.194/live/ playpath=flinstones swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/flintstones.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/OsPadrinhosMgicos.jpg" group-title="Desenhos 24 horas",Os Padrinhos Magicos
+rtmp://208.53.164.194/live/ playpath=padrinhos swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/padrinhos.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/omaskara.jpg" group-title="Desenhos 24 horas",O maskara
+rtmp://208.53.164.194/live/ playpath=maskara swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/maskara.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Pica%20Pau.jpg" group-title="Desenhos 24 horas",Pica Pau
+rtmp://208.53.164.194/live/ playpath=picapau swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/picapau.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Scooby%20Doo.jpg" group-title="Desenhos 24 horas",Scobby doo
+rtmp://208.53.164.194/live/ playpath=scooby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/scooby.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Os%20Simpsons.jpg" group-title="Desenhos 24 horas",Simpsons
+rtmp://208.53.164.194/live/ playpath=simpsons swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/simpsons.html
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Os%20Simpsons.jpg" group-title="Desenhos 24 horas",Simpsons
+rtmp://208.53.164.194/live/ playpath=simpsons swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/simpsons.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Sout%20Park.jpg" group-title="Desenhos 24 horas",South Park
+rtmp://208.53.164.194/live/ playpath=southpark swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/southpark.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Tom%20e%20Jerry.jpg" group-title="Desenhos 24 horas",Tom e Jerry
+rtmp://208.53.164.194/live/ playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Thundercats.jpg" group-title="Desenhos 24 horas",Thunder Cats
+rtmp://208.53.164.194/live/ playpath=thunder swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/thunder.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Thundercats.jpg" group-title="Desenhos 24 horas",Thunder Cats (Nova GeraÂ£o)
+rtmp://208.53.164.194/live/ playpath=thunder swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/thunder.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/UMAfamilyguy.jpg" group-title="Desenhos 24 horas",Uma familia da pesada
+rtmp://208.53.164.194/live/ playpath=family swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/family.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/xmen.jpg" group-title="Desenhos 24 horas",XMEN
+rtmp://208.53.164.194/live/ playpath=xmen swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/xmen.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/YuGiOh.jpg" group-title="Desenhos 24 horas",YUGIOH
+rtmp://208.53.164.194/live/ playpath=yugioh  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/yugioh.html
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4gvVaqMaMH8/Vx4yY8aZy7I/AAAAAAAAHYQ/K-K7cB8pnJkBUug2qyqMvV63FRHFPfAPgCLcB/s1600/Perfil.jpg" group-title="Series 24 horas",[COLOR blue][I][B]» SeRIES 24 HORAS «[/B][/I][/COLOR]
+http:///Filmes.mp4
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/bigbanghd.jpg" group-title="Series 24 horas",BIG BANG  HD
+rtmp://208.53.164.194/live/ playpath=big swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/bigbang.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Breaking%20Bad.jpg" group-title="Series 24 horas",Breaking Bad 
+rtmp://208.53.164.194/live/ playpath=breaking swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/breaking.html
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Chaves.jpg" group-title="Series 24 horas",Chaves
+rtmp://208.53.164.194/live/ playpath=chaves swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/chaves.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Chuck.jpg" group-title="Series 24 horas",Chuck
+rtmp://208.53.164.194/live/ playpath=chuck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/chuck.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Chuck.jpg" group-title="Series 24 horas",Chuck
+rtmp://208.53.164.194/live/ playpath=chuck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/chuck.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CSI.jpg" group-title="Series 24 horas",CSI
+rtmp://208.53.164.194/live/ playpath=csi swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/csi.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Dois%20Homens%20e%20Meio.jpg" group-title="Series 24 horas",Dois homens e meio
+rtmp://208.53.164.194/live/ playpath=two swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://www.carolineoliveira.com.br/tvamigos/two.html
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Dois%20Homens%20e%20Meio.jpg" group-title="Series 24 horas",Dois homens e meio 
+rtmp://208.53.164.194/live/ playpath=two swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/two.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/ducktales.png" group-title="Series 24 horas",Ducktales
+rtmp://208.53.164.194/live/ playpath=duck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL live=1 pageUrl=http://aovivobrasil.com/tvamigos/ducktales.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Drake%20e%20Josh.jpg" group-title="Series 24 horas",Drake e Josh
+rtmp://208.53.164.194/live/ playpath=drake swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/drakejosh.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/EPatroaCrians.jpg" group-title="Series 24 horas",Eu A patroa e as criancas
+rtmp://208.53.164.194/live/ playpath=patroa swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/patroa.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Glee.jpg" group-title="Series 24 horas",Glee
+rtmp://208.53.164.194/live/ playpath=glee swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/glee.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Gossip%20Girl.jpg" group-title="Series 24 horas",Gossip Girl
+rtmp://208.53.164.194/live/ playpath=gossip swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://www.carolineoliveira.com.br/tvamigos/gossip.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Heroes.jpg" group-title="Series 24 horas",Heroes
+rtmp://208.53.164.194/live/ playpath=heroes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/heroes.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Icarly.jpg" group-title="Series 24 horas",Icarly
+rtmp://208.53.164.194/live/ playpath=icarly swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://www.carolineoliveira.com.br/tvamigos/icarly.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/jaspion.jpg" group-title="Series 24 horas",Jaspion
+rtmp://208.53.164.194/live/ playpath=jaspion swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL live=1 pageUrl=http://aovivobrasil.com/tvamigos/jaspion.html
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/KenaneKell.jpg" group-title="Series 24 horas",Kenan e kel
+rtmp://208.53.164.194/live/ playpath=kenan swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/kenanekel.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/lost.jpg" group-title="Series 24 horas",Lost
+rtmp://208.53.164.194/live/ playpath=lost swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://www.carolineoliveira.com.br/tvamigos/lost.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/PrisonBreak.jpg" group-title="Series 24 horas",Prison Break
+rtmp://208.53.164.194/live/ playpath=prison swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://www.carolineoliveira.com.br/tvamigos/prisonbreak.html
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/SmallVille.jpg" group-title="Series 24 horas",SmallVille
+rtmp://208.53.164.194/live/ playpath=small swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://www.carolineoliveira.com.br/tvamigos/small.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Supernatural.jpg" group-title="Series 24 horas",Sobrenatural
+rtmp://208.53.164.194/live/ playpath=supernatural swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/supernatural.html
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Supernatural.jpg" group-title="Series 24 horas",Sobrenatural 
+rtmp://208.53.164.194/live/ playpath=supernatural swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/supernatural.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/TheBigBangTheory.jpg" group-title="Series 24 horas",The Big Bang Theory
+rtmp://208.53.164.194/live/ playpath=big swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/bigbang.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/the-walking-dead.jpg" group-title="Series 24 horas",The Walking Dead
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/todo%20mundo%20odeia%20o%20cris.jpg" group-title="Series 24 horas",Todo Munda odeia o Chris 
+rtmp://208.53.164.194/live/ playpath=cris swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/cris.html
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Ummaluconopeda.jpg" group-title="Series 24 horas",Um maluco no pedaço.
+rtmp://208.53.164.194/live/ playpath=maluconopedaco swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/maluconopedaco.html

@@ -1,0 +1,53 @@
+INFORMAÇÕES SOBRE CLASSES
+
+Classe Canal
+	numero : int
+	titulo : string
+	tvUrl : string
+	logoUrl : string
+	grupo : string
+	pais : string
+	parentControle : bool
+	parentCode : string
+
+Classe TV
+	
+
+*********Para implementação de volume do sistema***************	
+//Mute e Volume Windows
+string program = C:\Users\Bruno Leo Coelho\Desktop\Trabalho PAV 2017-1\NirCMD\nircmd.exe
+
+//toggle mute
+cmdCommand("nircmd.exe", "mutesysvolume 2");
+
+//turn mute off
+cmdCommand("nircmd.exe", "mutesysvolume 0");
+
+//increase volume in 3000 units (from total of 65535)
+cmdCommand("nircmd.exe", "changesysvolume 3000");
+
+//decrease volume in 3000 units (from total of 65535)
+cmdCommand("nircmd.exe", "changesysvolume -3000");
+
+
+/// <summary>
+/// Rrecebe comandos para rodar num prompt invisivel
+/// </summary>
+/// <param name="programa"></param>
+/// <param name="comando"></param>
+	private void cmdCommand(string programa, string comando)
+        {
+            try
+            {
+                ProcessStartInfo cmd = new ProcessStartInfo();
+                cmd.FileName = programa;
+                cmd.UseShellExecute = false;
+                cmd.Arguments = comando;
+                cmd.WindowStyle = ProcessWindowStyle.Hidden;
+                Process.Start(cmd);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+        }
